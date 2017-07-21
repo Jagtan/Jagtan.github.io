@@ -118,9 +118,9 @@ li.active a, a:hover, a:active {
   outline: none;
   z-index: 0;
   position: absolute;
-  width: 20px;
-  height: 20px;
-  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
   -ms-transform: translate(-50%, -50%);
@@ -153,8 +153,8 @@ li.active a, a:hover, a:active {
   padding: 0;
   filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
   opacity: 1;
-  width: 600px;
-  height: 400px;
+  width: 300px;
+  height: 220px;
   color: #e5e5e5;
   z-index: 1;
   -webkit-transition: opacity 0.25s ease-in-out, width 0.25s ease-in-out, height 0.25s ease-in-out;
