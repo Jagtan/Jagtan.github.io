@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  max-width: 1200px;
+  max-width: 2000px;
   margin: 20px auto;
   padding: 0 100px;
   overflow-x: hidden;
@@ -118,9 +118,9 @@ li.active a, a:hover, a:active {
   outline: none;
   z-index: 0;
   position: absolute;
-  width: 40px;
-  height: 40px;
-  border-radius: 20px;
+  width: 2%;
+  height: 4%;
+  border-radius: 50%;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
   -ms-transform: translate(-50%, -50%);
